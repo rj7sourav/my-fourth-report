@@ -4,3 +4,14 @@ h2{
 .dolor{
     background-color: burlywood;
 }
+#a7{
+    background-color: rgb(157, 196, 197); text-align: right;
+}
+.shadow{
+    background-color: cyan; box-shadow: 20px 20px 10px rgb(218, 89, 82); 
+    margin: 10px 5px 10px 5px;
+    padding: 15px 10px 15px 10px;
+    border-radius: 30px;
+    
+    text-shadow: 5px;
+}
